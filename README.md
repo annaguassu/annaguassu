@@ -3,7 +3,7 @@
 - 🔭 Atualmente, sou Aprendiz de TI.
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas.
 - 📫 annaguassu@gmail.com
-- ⚡ Gosto de todas as áreas de TI, todavia, tenho uma paixão por desenvolvimento e BD (E TOTALMENTE INICIANTE)
+- ⚡ Sou uma baby na área de TI, mas já criei uma paixão por desenvolvimento e BD
 
                 🎈🎈🎈🎈🎈
 
