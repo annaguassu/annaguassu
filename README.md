@@ -1,4 +1,4 @@
-## Oiê! Sou a Ana, ou para a grande parte dos meus amigos, Bia 😊
+## Oiê! Sou a Ana - ou, para a grande parte dos meus amigos, Bia 😊
 
 - 🔭 Atualmente, sou Aprendiz de TI.
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas.
