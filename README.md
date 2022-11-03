@@ -1,9 +1,8 @@
 ## Oiê! Sou a Ana - ou, para a grande parte dos meus amigos, Bia 😊
 
-- 🔭 Atualmente, sou Aprendiz de TI.
+- 🔭 Atualmente, sou estagiária em backend com a linguagem Java
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas.
 - 📫 annaguassu@gmail.com
-- ⚡ Sou uma baby na área de TI, mas já criei uma paixão por desenvolvimento e BD
 
                 🎈🎈🎈🎈🎈
 
