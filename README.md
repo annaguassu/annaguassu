@@ -1,6 +1,6 @@
 ## Oiê! Sou a Ana - ou, para a grande parte dos meus amigos, Bia 😊
 
-- 🔭 Atualmente, sou estagiária em backend com a linguagem Java
+- 🔭 Atualmente, sou estagiária em backend com a linguagem Java e Python
 - 🌱 Estudo Análise e Desenvolvimento de Sistemas.
 - 📫 annaguassu@gmail.com
 
